@@ -1,0 +1,8 @@
+1- Some SQL queries are hard Coded , Need To replace Data with the Function parameters 
+
+2- Remove the Redundant functions For the Code 
+    # - Also Remove the Redundant Codes Or Endpoints 
+
+3- Then Deploy the API [ It is Already On the Repo ]
+
+4- 
